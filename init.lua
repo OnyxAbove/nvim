@@ -81,6 +81,7 @@ If you experience any errors while trying to install kickstart, run `:checkhealt
 I hope you enjoy your Neovim journey,
 - TJ
 
+
 P.S. You can delete this when you're done too. It's your config now! :)
 --]]
 
@@ -107,3 +108,5 @@ require 'lazy-plugins'
 
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
+
+vim.cmd.colorscheme 'catppuccin-macchiato'
