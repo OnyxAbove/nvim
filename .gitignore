@@ -4,5 +4,5 @@ test.sh
 nvim
 
 spell/
-#lua/deviceSpecific.lua
+lua/deviceSpecific.lua
 lazy-lock.json
