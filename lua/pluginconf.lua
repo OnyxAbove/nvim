@@ -23,7 +23,7 @@ wk.setup {
 wk.add {
   { '<leader>e', group = '[E]xplorer' },
   { '<leader>ec', '<cmd>NvimTreeClose<CR>', desc = 'Close file explorer' },
-  { '<leader>ee', '<cmd>NvimTreeFocus<CR>', desc = 'Toggle file explorer' },
+  { '<leader>ee', '<cmd>NvimTreeFocus<CR>', desc = 'Focus file explorer' },
   { '<leader>ef', '<cmd>NvimTreeFindFileToggle<CR>', desc = 'Toggle file explorer on current file' },
   { '<leader>er', '<cmd>NvimTreeRefresh<CR>', desc = 'Refresh file explorer' },
   { '<leader>o', group = '[O]pen' },
